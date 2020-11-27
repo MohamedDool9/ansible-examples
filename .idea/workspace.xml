@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c06466ed-1121-4281-9358-dac240b4e14d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LES_PLAYBOOKS.md" beforeDir="false" afterPath="$PROJECT_DIR$/LES_PLAYBOOKS.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,7 @@
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../awx-15.0.1" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -175,38 +174,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="minor changes" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="3946" y="145" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591334168011">
-      <screen x="3360" y="-161" width="1680" height="1010" />
+    <state x="549" y="177" key="FileChooserDialogImpl" timestamp="1606466428911">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="3946" y="145" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/3360.-161.1680.1010/1920.0.1440.860/-1360.0.1360.728@3360.-161.1680.1010" timestamp="1591334168011" />
-    <state x="4133" y="-15" key="CommitChangelistDialog2" timestamp="1593675301081">
-      <screen x="3360" y="-161" width="1680" height="1010" />
-    </state>
-    <state x="2583" y="57" key="CommitChangelistDialog2/0.0.1920.1040/3360.-161.1680.1010/1920.0.1440.860/-1360.0.1360.728@1920.0.1440.860" timestamp="1593003531042" />
-    <state x="4133" y="-15" key="CommitChangelistDialog2/0.0.1920.1040/3360.-161.1680.1010/1920.0.1440.860/-1360.0.1360.728@3360.-161.1680.1010" timestamp="1593675301081" />
-    <state x="3452" y="-69" width="1496" height="826" key="DiffContextDialog" timestamp="1593001883850">
-      <screen x="3360" y="-161" width="1680" height="1010" />
-    </state>
-    <state x="3452" y="-69" width="1496" height="826" key="DiffContextDialog/0.0.1920.1040/3360.-161.1680.1010/1920.0.1440.860/-1360.0.1360.728@1920.0.1440.860" timestamp="1593001883850" />
-    <state x="3452" y="-69" width="1496" height="826" key="DiffContextDialog/0.0.1920.1040/3360.-161.1680.1010/1920.0.1440.860/-1360.0.1360.728@3360.-161.1680.1010" timestamp="1593000392041" />
-    <state x="2407" y="146" key="FileChooserDialogImpl" timestamp="1593150865270">
-      <screen x="1920" y="0" width="1440" height="860" />
-    </state>
-    <state x="2407" y="146" key="FileChooserDialogImpl/0.0.1920.1040/3360.-161.1680.1010/1920.0.1440.860/-1360.0.1360.728@1920.0.1440.860" timestamp="1593150865270" />
-    <state x="3928" y="10" key="FileChooserDialogImpl/0.0.1920.1040/3360.-161.1680.1010/1920.0.1440.860/-1360.0.1360.728@3360.-161.1680.1010" timestamp="1593065465414" />
-    <state x="4208" y="70" key="SettingsEditor" timestamp="1597071905647">
-      <screen x="3840" y="0" width="1680" height="1010" />
-    </state>
-    <state x="4208" y="70" key="SettingsEditor/0.0.1920.1040/-1360.0.1360.728/1920.0.1920.1040/3840.0.1680.1010@3840.0.1680.1010" timestamp="1597071905647" />
-    <state x="2235" y="60" key="SettingsEditor/0.0.1920.1040/3360.-161.1680.1010/1920.0.1440.860/-1360.0.1360.728@3360.-161.1680.1010" timestamp="1593006983144" />
-    <state x="4025" y="260" key="SetupCloudRepositoryDialog" timestamp="1592974068376">
-      <screen x="3360" y="-161" width="1680" height="1010" />
-    </state>
-    <state x="4025" y="260" key="SetupCloudRepositoryDialog/0.0.1920.1040/3360.-161.1680.1010/1920.0.1440.860/-1360.0.1360.728@3360.-161.1680.1010" timestamp="1592974068376" />
-    <state x="3843" y="89" key="Vcs.Push.Dialog.v2" timestamp="1593675303480">
-      <screen x="3360" y="-161" width="1680" height="1010" />
-    </state>
-    <state x="2334" y="213" key="Vcs.Push.Dialog.v2/0.0.1920.1040/3360.-161.1680.1010/1920.0.1440.860/-1360.0.1360.728@1920.0.1440.860" timestamp="1593003533513" />
-    <state x="3843" y="89" key="Vcs.Push.Dialog.v2/0.0.1920.1040/3360.-161.1680.1010/1920.0.1440.860/-1360.0.1360.728@3360.-161.1680.1010" timestamp="1593675303480" />
+    <state x="549" y="177" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606466428911" />
   </component>
 </project>
